@@ -1,0 +1,108 @@
+{
+    "province": {
+        "question": "Which province would you like to explore?",
+        "options": [
+            "Phnom Penh",
+            "Siem Reap",
+            "Battambang",
+            "Sihanoukville",
+            "Kampot",
+            "Kep",
+            "Poipet",
+            "Kampong Cham",
+            "Banteay Meanchey",
+            "Kampong Chhnang",
+            "Kampong Speu",
+            "Kampong Thom",
+            "Kandal",
+            "Koh Kong",
+            "Kratie",
+            "Mondulkiri",
+            "Oddar Meanchey",
+            "Pailin",
+            "Preah Vihear",
+            "Prey Veng",
+            "Pursat",
+            "Ratanakiri",
+            "Stung Treng",
+            "Svay Rieng",
+            "Takeo",
+            "Tbong Khmum"
+        ]
+    },
+    "category": {
+        "question": "What type of attractions are you interested in?",
+        "options": [
+            "Tourist Attraction",
+            "Hotel",
+            "Restaurant",
+            "Transportation"
+        ]
+    },
+    "ratings": {
+        "question": "Do you prefer attractions with higher ratings?",
+        "options": [
+            "Yes",
+            "No"
+        ]
+    },
+    "entry_free": {
+        "question": "Do you prefer attractions with free entry?",
+        "options": [
+            "Yes",
+            "No"
+        ]
+    },
+    "popularity": {
+        "question": "How important is the number of reviews for you when choosing an attraction?",
+        "options": [
+            "Not important",
+            "Somewhat important",
+            "Very important"
+        ]
+    },
+    "distance": {
+        "question": "How far are you willing to travel from your current location?",
+        "options": [
+            "< 5 km",
+            "5-10 km",
+            "10-20 km",
+            "20+ km"
+        ]
+    },
+    "experience": {
+        "question": "What type of experience are you looking for?",
+        "options": [
+            "Relaxation",
+            "Adventure",
+            "Cultural",
+            "Historical",
+            "Food & Drink"
+        ]
+    },
+    "group_size": {
+        "question": "Are you traveling alone or with a group?",
+        "options": [
+            "Alone",
+            "With family",
+            "With friends",
+            "With a tour group"
+        ]
+    },
+    "time_of_visit": {
+        "question": "What time of day do you prefer to visit attractions?",
+        "options": [
+            "Morning",
+            "Afternoon",
+            "Evening",
+            "No preference"
+        ]
+    },
+    "accessibility": {
+        "question": "Do you require attractions with wheelchair accessibility?",
+        "options": [
+            "Yes",
+            "No"
+        ]
+    }
+}
